@@ -134,4 +134,4 @@ Keywords: Deep learning; Defect recognition; Feature fusion; Object detection; P
 # 5. DOWNLOAD
 
 File shared via Netflix:  CPMID.rar.
-Link: https://pan.baidu.com/s/1_TyIBgAb-Nov7VkE58ZZeA?pwd=i3h6Extract code: i3h6
+Link: https://pan.baidu.com/s/1_TyIBgAb-Nov7VkE58ZZeA?pwd=i3h6 Extract code: i3h6
