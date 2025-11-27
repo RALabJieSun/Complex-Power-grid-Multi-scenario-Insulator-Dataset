@@ -111,7 +111,23 @@
 
 # 4. Copyright Statement
 
-The dataset is utilized exclusively for scientific research purposes. If used, proper citation in the literature is required. Please cite it as follows: **论文引用格式**
+The dataset is utilized exclusively for scientific research purposes. If used, proper citation in the literature is required. Please cite it as follows: 
+
+[
+
+Qinglong Wang, Entuo Li, Shihao Cui, Wengang Yang, Xinchun Zhang, Wenqiang Jiang, Yunjian Hu, Wen Peng, Jie Sun,
+Cross-scale recognition of dense insulators and defects in complex power grid environments,
+Engineering Applications of Artificial Intelligence,
+Volume 164, Part B,
+2026,
+113283,
+ISSN 0952-1976,
+https://doi.org/10.1016/j.engappai.2025.113283.
+(https://www.sciencedirect.com/science/article/pii/S0952197625033147)
+Abstract: As intelligent power grids continue to evolve, automated insulator inspection requires robust deep learning solutions capable of handling diverse operational scenarios. Current detection methods face substantial challenges within multi-scenario power grid environments, including varied insulator types, complex background interference, scale variation, and dense object overlap with occlusion. To address these limitations, we propose the Universal Power Insulator Detection Network (UPIDNet), an enhanced one-stage anchor-based architecture employing integrated cross-scale detection. The network incorporates a contextual transformer attention embedded within a cross-stage partial bottleneck structure with three convolutions to strengthen feature extraction. A four-scale feature pyramid enables integrated cross-scale fusion, mitigating background interference and accommodating multi-scale targets. The design features a high-resolution detection head optimized for small target detection and a channel and position attention module to expand receptive fields for improved spatial awareness. We further construct the Complex Power-grid Multi-scenario Insulator Dataset (CPMID), comprising 7712 images with 72,596 annotated instances collected from transmission lines, substations, and power plants. Both the dataset and trained models are publicly available. Comprehensive evaluations demonstrate robust performance across multiple benchmarks. UPIDNet achieves a mean Average Precision (mAP) of 85.94 % at an Intersection over Union (IoU) threshold of 0.5 on CPMID, while maintaining competitive performance on two public insulator datasets. These contributions provide an effective and generalizable solution for automated insulator inspection in complex power grid environments.
+Keywords: Deep learning; Defect recognition; Feature fusion; Object detection; Power insulator; Smart grid
+
+]
 
 # 5. DOWNLOAD
 
