@@ -115,19 +115,19 @@ The dataset is utilized exclusively for scientific research purposes. If used, p
 
 [
 
-Qinglong Wang, Entuo Li, Shihao Cui, Wengang Yang, Xinchun Zhang, Wenqiang Jiang, Yunjian Hu, Wen Peng, Jie Sun,
+Qinglong Wang, Entuo Li, Shihao Cui, Wengang Yang, Xinchun Zhang, Wenqiang Jiang, Yunjian Hu, Wen Peng, Jie Sun,\
 
-Cross-scale recognition of dense insulators and defects in complex power grid environments,
 
-Engineering Applications of Artificial Intelligence,
 
-Volume 164, Part B,
+Cross-scale recognition of dense insulators and defects in complex power grid environments,\
 
-2026,
 
-113283,
 
-ISSN 0952-1976,
+Engineering Applications of Artificial Intelligence,\
+
+
+
+Volume 164, Part B,2026,113283,ISSN 0952-1976,
 
 https://doi.org/10.1016/j.engappai.2025.113283.
 
